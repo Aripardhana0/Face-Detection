@@ -9,8 +9,11 @@ Bounding Box Visualization: Draws bounding boxes around detected faces for easy 
 # Installation
 System Requirements
 Python (3.7 or higher)
+
 OpenCV library
-Installation Steps
+
+#Installation Steps
+
 Install Python:
 
 Download and install Python from python.org.
